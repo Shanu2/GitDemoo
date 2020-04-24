@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="78" started-at="2020-04-14T17:18:56 IST" finished-at="2020-04-14T17:18:56 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="78" started-at="2020-04-14T17:18:56 IST" finished-at="2020-04-14T17:18:56 IST">
+      <class name="MavenProgram.AppiumTest">
+        <test-method status="PASS" signature="mobileTesting()[pri:0, instance:MavenProgram.AppiumTest@1d082e88]" name="mobileTesting" duration-ms="0" started-at="2020-04-14T17:18:56 IST" finished-at="2020-04-14T17:18:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mobileTesting -->
+        <test-method status="PASS" signature="apTest()[pri:0, instance:MavenProgram.AppiumTest@1d082e88]" name="apTest" duration-ms="0" started-at="2020-04-14T17:18:56 IST" finished-at="2020-04-14T17:18:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- apTest -->
+      </class> <!-- MavenProgram.AppiumTest -->
+      <class name="MavenProgram.SeleniumTest">
+        <test-method status="PASS" signature="SeleniumTest()[pri:0, instance:MavenProgram.SeleniumTest@7d3a22a9]" name="SeleniumTest" duration-ms="15" started-at="2020-04-14T17:18:56 IST" finished-at="2020-04-14T17:18:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SeleniumTest -->
+        <test-method status="PASS" signature="SeleniumTest2()[pri:0, instance:MavenProgram.SeleniumTest@7d3a22a9]" name="SeleniumTest2" duration-ms="0" started-at="2020-04-14T17:18:56 IST" finished-at="2020-04-14T17:18:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SeleniumTest2 -->
+      </class> <!-- MavenProgram.SeleniumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

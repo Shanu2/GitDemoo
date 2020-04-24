@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="71" started-at="2020-04-14T17:19:13 IST" finished-at="2020-04-14T17:19:13 IST">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="71" started-at="2020-04-14T17:19:13 IST" finished-at="2020-04-14T17:19:13 IST">
+      <class name="MavenProgram.AppiumTest">
+        <test-method status="PASS" signature="mobileTesting()[pri:0, instance:MavenProgram.AppiumTest@56ac3a89]" name="mobileTesting" duration-ms="0" started-at="2020-04-14T17:19:13 IST" finished-at="2020-04-14T17:19:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mobileTesting -->
+        <test-method status="PASS" signature="apTest()[pri:0, instance:MavenProgram.AppiumTest@56ac3a89]" name="apTest" duration-ms="0" started-at="2020-04-14T17:19:13 IST" finished-at="2020-04-14T17:19:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- apTest -->
+      </class> <!-- MavenProgram.AppiumTest -->
+      <class name="MavenProgram.SeleniumTest">
+        <test-method status="PASS" signature="SeleniumTest2()[pri:0, instance:MavenProgram.SeleniumTest@27c20538]" name="SeleniumTest2" duration-ms="0" started-at="2020-04-14T17:19:13 IST" finished-at="2020-04-14T17:19:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SeleniumTest2 -->
+        <test-method status="PASS" signature="SeleniumTest()[pri:0, instance:MavenProgram.SeleniumTest@27c20538]" name="SeleniumTest" duration-ms="0" started-at="2020-04-14T17:19:13 IST" finished-at="2020-04-14T17:19:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SeleniumTest -->
+      </class> <!-- MavenProgram.SeleniumTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>

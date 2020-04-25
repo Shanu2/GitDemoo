@@ -21,5 +21,9 @@ public void SeleniumTestGit()
 	System.out.println("Welcome Selenium git");
 	System.out.println("Welcome Selenium git1");
 	System.out.println("Welcome Selenium git2");
+	//changes made
+	System.out.println("Welcome Selenium git3");
+	System.out.println("Welcome Selenium git5");
+	System.out.println("Welcome Selenium git7");
 }
 }

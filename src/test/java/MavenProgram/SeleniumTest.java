@@ -38,6 +38,12 @@ public void SeleniumNewBranch()
 	System.out.println("Welcome Selenium new branch222");
 	System.out.println("Welcome Selenium new develop branch");
 }
+public void SeleniumNewBranchAgainChanges()
+{
+	
+	System.out.println("Welcome Selenium new branch again changes");
+	System.out.println("Welcome Selenium new develop branch changes code again");
+}
 
 
 
